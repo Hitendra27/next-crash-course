@@ -15,9 +15,9 @@ pnpm dev
 Open [http://localhost:3000](http://localhost:3000) with your browser to see the result.
 
 ## screnshots of the Next app.
+
 <img width="1440" alt="Screenshot 2023-04-11 at 14 33 04" src="https://user-images.githubusercontent.com/73651340/231180180-ee0dd16b-24e3-4c8b-a690-ea7ef5215afe.png">
 <img width="1440" alt="Screenshot 2023-04-11 at 14 33 11" src="https://user-images.githubusercontent.com/73651340/231180212-efc2b94d-0945-4213-9745-8447df67b6a8.png">
-
 
 You can start editing the page by modifying `pages/index.js`. The page auto-updates as you edit the file.
 
