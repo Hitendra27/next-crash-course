@@ -15,6 +15,11 @@ pnpm dev
 Open [http://localhost:3000](http://localhost:3000) with your browser to see the result.
 
 ## screnshots of the Next app.
+<img width="1440" alt="Screenshot 2023-05-02 at 20 09 32" src="https://user-images.githubusercontent.com/73651340/235764653-869ececb-99ef-44b3-a347-94c89a217ad2.png">
+<img width="1440" alt="Screenshot 2023-05-02 at 20 09 39" src="https://user-images.githubusercontent.com/73651340/235764693-bc0daf54-897b-4400-8ac6-2c28e8904f18.png">
+<img width="1440" alt="Screenshot 2023-05-02 at 20 09 46" src="https://user-images.githubusercontent.com/73651340/235764708-639d3655-eb4f-46ea-897b-90b244b5b80a.png">
+<img width="1440" alt="Screenshot 2023-05-02 at 20 09 55" src="https://user-images.githubusercontent.com/73651340/235764730-3843a22f-387d-4222-8781-29dc92f9fb23.png">
+
 <img width="1440" alt="Screenshot 2023-05-01 at 18 51 57" src="https://user-images.githubusercontent.com/73651340/235517464-872ece58-3519-4919-b36c-03e946eda76d.png">
 
 <img width="1440" alt="Screenshot 2023-05-01 at 18 52 04" src="https://user-images.githubusercontent.com/73651340/235517484-e1b382a3-1c08-4064-b13a-b51e4dd0fdb6.png">
